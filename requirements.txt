@@ -9,4 +9,4 @@ hachoir
 mutagen
 psutil
 aiofiles
-Scaffold
+pyrogram.scaffold
