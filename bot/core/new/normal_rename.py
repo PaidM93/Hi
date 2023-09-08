@@ -15,7 +15,7 @@ from pyrogram import (
     StopTransmission
 )
 
-from pyrogram.scaffold import scaffold
+from pyrogram.scaffold import Scaffold
 from pyrogram.errors import (
     FilePartMissing,
     MessageNotModified
